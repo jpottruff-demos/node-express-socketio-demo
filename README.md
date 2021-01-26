@@ -7,3 +7,9 @@ Realtime chat app made with node, express and socket.io based on [Brad Traversy'
 - [express](https://expressjs.com/)
 - [socket.io](https://www.npmjs.com/package/socket.io)
 - [moment](https://www.npmjs.com/package/moment)
+
+## To run
+
+`npm start dev`
+
+http://localhost:3000
